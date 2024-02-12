@@ -1,5 +1,5 @@
 # 👾 About Me:
-Web Development and Software Engineering enthusiast. Always eager to acquire new skills as well as to contribute to the development community. I'm a soon-to-be software engineer at Universidad Politécnica de Madrid (UPM) currently interning at IMDEA Software Institute.
+Web Development and Software Engineering enthusiast. Always eager to acquire new skills as well as to contribute to the development community.
 
 
 ## 🌐 Socials:
