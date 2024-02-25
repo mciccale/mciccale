@@ -1,5 +1,5 @@
 # 👾 About Me:
-Web Development and Software Engineering enthusiast. Always eager to acquire new skills as well as to contribute to the development community.
+Functional Programming, Web Development & Software Engineering enthusiast. Always eager to acquire new skills as well as to contribute to the development community.
 
 
 ## 🌐 Socials:
